@@ -1,2 +1,2 @@
 # nodejs-mongodb-usercontrol
-Controle de Usuário REST API com NodeJs e Mongodb
+Controle de Usuários REST API com NodeJs e Mongodb
