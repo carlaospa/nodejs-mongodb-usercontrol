@@ -1,12 +1,15 @@
-# nodejs-mongodb-usercontrol
-Controle de Usuários REST API com NodeJs, Express e Mongodb
+## nodejs-mongodb-usercontrol
+# Controle de Usuários REST API com NodeJs, Express e Mongodb
 
-Dependências :
-    . node : versão 16.13.1
-    . npm: 8.1.2
-    . bcryptjs: versão 2.4.3.
-    . body-parser: versão 1.19.1
-    . express: versão 4.17.2
-    . mongoose: versão 6.1.5
+# Dependências <br />
+    . node : versão 16.13.1 <br />
+    . npm: 8.1.2 <br />
+    . bcryptjs: versão 2.4.3. <br />
+    . body-parser: versão 1.19.1 <br />
+    . express: versão 4.17.2 <br />
+    . mongoose: versão 6.1.5 
+
+<br />
+<br />
 
 Fonte de Estudo: Rocketseat
